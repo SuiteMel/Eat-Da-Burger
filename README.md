@@ -1,4 +1,4 @@
-# Eat-Da-Burger
+# [Eat-Da-Burger](https://stormy-garden-74550.herokuapp.com/)
 
 ## Technology Used
 * MySQL
@@ -6,6 +6,7 @@
 * Express
 * Handlebars
 * Homemade ORM
+* Published with Heroku
 
 ## What The App Does
 This app is simple in its use. You add a burger with the form and it shows up on the left. You can then choose to devour it and it will show up on the right side with all the other devoured burgers.
