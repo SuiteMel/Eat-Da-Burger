@@ -1,0 +1,45 @@
+body {
+  background-color: #FADA5E;
+}
+
+div {
+  width: 600px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.devourIt {
+  float:left;
+  /* margin: 10px; */
+  list-style: none;
+  width: 260px;
+}
+
+.itDevoured {
+  float: right;
+  list-style: none;
+  width: 260px;
+}
+
+.devour {
+  float: right;
+  margin-left: 5px;
+}
+
+.devourable, .devoured {
+  padding: 5px;
+  background-color: whitesmoke;
+  margin: 5px;
+}
+
+form {
+  clear: both;
+  text-align: center;
+}
+
+input {
+  margin-bottom: 5px;
+}
